@@ -1,6 +1,6 @@
 <h1>WEB SERVICE - REST praktikum 4 <h1><br>
 
-#Deskripsi
+# Deskripsi
 <br>
 <p>Aplikasi ini merupakan aplikasi implementasi <b>RESTful Web Service</b></p>
 
@@ -9,19 +9,19 @@
 **ENDPOINTS data buku**
 
 Method `GET` <br>
-Endpoints http://localhost:8888/REST/server/books.php
+Endpoints `http://HOST:PORT/REST/server/books.php`
 
 Method `POST` <br>
-Endpoints http://localhost:8888/REST/server/books.php
+Endpoints `http://HOST:PORT/REST/server/books.php`
 
 Method `GET` <br>
-Endpoints http://localhost:8888/REST/server/books.php/{$id}
+Endpoints `http://HOST:PORT/REST/server/books.php/{$id}`
 
 Method `POST` <br>
-Endpoints http://localhost:8888/REST/server/books.php/{$id}
+Endpoints `http://HOST:PORT/REST/server/books.php/{$id}`
 
 Method `DELETE` <br>
-Endpoints http://localhost:8888/REST/server/books.php/{$id}
+Endpoints `http://HOST:PORT/REST/server/books.php/{$id}`
 
 
 <p align="center"><img src="img/xml.png" width="400"></p>
